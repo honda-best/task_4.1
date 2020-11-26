@@ -7,8 +7,10 @@ ___
 
 ### Содержание
 
-1. Что такое [GIT](./whatisgit.md)
-2. Команда [git add](./add.md)
+1. [Что такое GIT](./whatisgit.md)
+2. [Как зарегистрироваться в GIT](./registr.md)
+3. [Команда git add](./add.md)
+4. 
 
 ---
 
