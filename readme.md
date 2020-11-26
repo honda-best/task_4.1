@@ -9,7 +9,8 @@ ___
 
 1. [Что такое GIT](./whatisgit.md)
 2. [Как зарегистрироваться в GIT](./registr.md)
-3. [Команда git add](./add.md)
+3. [Как создать репозиторий в GIT](./create.md)
+4. [Команда git add](./add.md)
 4. 
 
 ---
