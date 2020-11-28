@@ -18,7 +18,8 @@ ___
 9. [Команда git add](./add.md "git add")
 10. [Команда git commit](./commit.md "git commit")
 11. [Команда git clone](./clone.md "git clone")
-12. [Команда git fetch](./fetch.md "git fetch")
+12. [Получение и слияние данных](./fetch.md "git fetch")
+13. [Команда git push](./push.md "git push")
 ---
 
 GIT logo by Jason Long http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
