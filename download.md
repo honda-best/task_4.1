@@ -6,7 +6,7 @@
 
 Если у вас установлена операционная система Windows, перейдите на сайт  [gitforwindows.org](https://gitforwindows.org "https://gitforwindows.org") и нажмите там кнопку **Download**. Загрузка начнется автоматически.
 
-![Download](./assets/down.jpg "Download")
+![Download](./assets/download.jpg "Стрелкой указана кнопка")
 
 Если у вас компьютер с установленной Mac OS X, перейдите на сайт [git-scm.com](https://git-scm.com/download/mac "https://git-scm.com/download/mac") и следуйте дальнейшим инструкциям по загрузке и установке на данной странице.
 
