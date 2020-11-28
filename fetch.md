@@ -20,4 +20,4 @@ git merge
 git pull
 ```
 
-[**<- Назад |**](./clone.md "Команда git clone")[**Далее ->**](./push.md "Команда git push")
+[**<- Назад |**](./clone.md "Команда git clone")[**| Далее ->**](./push.md "Команда git push")

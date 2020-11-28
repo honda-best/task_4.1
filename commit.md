@@ -10,4 +10,4 @@
 ```bash-
 git commit -m "Text"
 ```
-[**<- Назад |**](./add.md "Команда git add")[**Далее ->**](./clone.md "Команда git clone")
+[**<- Назад |**](./add.md "Команда git add")[**| Далее ->**](./clone.md "Команда git clone")
