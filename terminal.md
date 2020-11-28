@@ -6,4 +6,4 @@
 
 ![Terminal](./assets/term.jpg "Командная строка")
 
-[**<- Назад |**](./ignore.md "Файл .gitignore")[**Далее ->**](./add.md "add")
+[**<- Назад |**](./ignore.md "Файл .gitignore")[**Далее ->**](./set.md "Первая настройка GIT")
